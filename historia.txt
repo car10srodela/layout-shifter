@@ -2,7 +2,8 @@ Hola mi nombre es Carlos Rodela.
 Soy Ingeniero en Informatica.
 Tengo 26 años y vivo en Mexico.
 
-Me gusta el futbol y los videojuegos.
+Me gusta el futbol y ver videos de Juan Guarnizo.
 Estamos haciendo pruebas desde  otra rama.
 
 Agregando mas contenido al documento.
+Esta es otra linea sin importancia alguna.
