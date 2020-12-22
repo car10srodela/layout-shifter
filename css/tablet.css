@@ -1,0 +1,16 @@
+.poster {
+    width: 40%;
+}
+
+.information {
+    width: 60%;
+    align-items: center;
+}
+
+.video {
+    background-image: url("../img/background-medium.jpg");
+}
+
+.icons {
+    width: 12%;
+}

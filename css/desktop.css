@@ -1,0 +1,35 @@
+body {
+    overflow-x: hidden;
+}
+.poster {
+    width: 30%;
+}
+
+.poster img {
+    width: 50%;
+    border-radius: 15px;
+}
+
+.information {
+    width: 70%;
+}
+
+.info {
+    font-size: 1.8rem;
+    margin: 20px;
+}
+
+.video {
+    background-image: url("../img/background-large.jpg");
+    width: 100%;
+    order: -1;
+}
+
+.trailer {
+    width: 50%;
+}
+
+.icons {
+    width: 8%;
+}
+
